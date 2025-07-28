@@ -34,7 +34,9 @@ customization tools that allow
 
 ![Screenshot 2024-12-20 025321](https://github.com/user-attachments/assets/d09333db-80a2-4e94-97b7-bd6fb35665ee)
 ## Acknowledgements
-### Ankit kumar - Developer
+## Contributors
+- [@sar-ankit](https://github.com/sar-ankit)
+- [@saurabhh1409](https://github.com/saurabhh1409)
 #### Thank you for visting my PresonalisedPro
 
 
